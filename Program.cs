@@ -31,7 +31,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EPHRS - MAIN BRANCH ===");
+            Console.WriteLine("=== EPHRS - MAIN BRANCH ==="); //Simulate Merge Conflict
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter");
